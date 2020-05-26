@@ -1,0 +1,4 @@
+"0","mylike<-X107edu[grep(""藝術_娛樂及休閒服務業-專業人員|工業-專業人員"",X107edu$大職業別),]"
+"0","selectlikemin<-"
+"0","  select(mylike,大職業別,`大學-薪資`,`研究所-薪資`)"
+"0","View(selectlikemin)"

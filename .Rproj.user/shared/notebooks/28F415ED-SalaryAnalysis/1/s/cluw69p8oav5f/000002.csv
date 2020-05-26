@@ -1,0 +1,42 @@
+"0","library(readr)"
+"0","library(dplyr)"
+"0","X104edunew <- read_csv(""C:/Users/chueh/OneDrive/æ¡Œé¢/104edunew.csv"")"
+"2","Parsed with column specification:
+cols(
+  ¦~«× = [32mcol_double()[39m,
+  ¤jÂ¾·~§O = [31mcol_character()[39m,
+  `¸g±`©ÊÁ~¸ê-Á~¸ê` = [32mcol_double()[39m,
+  `¸g±`©ÊÁ~¸ê-¤k/¨k` = [32mcol_double()[39m,
+  `°ê¤¤¤Î¥H¤U-Á~¸ê` = [32mcol_double()[39m,
+  `°ê¤¤¤Î¥H¤U-¤k/¨k` = [32mcol_double()[39m,
+  `°ª¤¤©Î°ªÂ¾-Á~¸ê` = [32mcol_double()[39m,
+  `°ª¤¤©Î°ªÂ¾-¤k/¨k` = [32mcol_double()[39m,
+  `±M¬ì-Á~¸ê` = [32mcol_double()[39m,
+  `±M¬ì-¤k/¨k` = [32mcol_double()[39m,
+  `¤j¾Ç-Á~¸ê` = [32mcol_double()[39m,
+  `¤j¾Ç-¤k/¨k` = [32mcol_double()[39m,
+  `¬ã¨s©Ò¤Î¥H¤W-Á~¸ê` = [32mcol_double()[39m,
+  `¬ã¨s©Ò¤Î¥H¤W-¤k/¨k` = [32mcol_double()[39m
+)
+"
+"0","View(X104edunew)"
+"0","X107edu <- read_csv(""C:/Users/chueh/OneDrive/æ¡Œé¢/107edu.csv"")"
+"2","Parsed with column specification:
+cols(
+  ¦~«× = [32mcol_double()[39m,
+  ¤jÂ¾·~§O = [31mcol_character()[39m,
+  `¸g±`©ÊÁ~¸ê-Á~¸ê` = [32mcol_double()[39m,
+  `¸g±`©ÊÁ~¸ê-¤k/¨k` = [32mcol_double()[39m,
+  `°ê¤¤¤Î¥H¤U-Á~¸ê` = [32mcol_double()[39m,
+  `°ê¤¤¤Î¥H¤U-¤k/¨k` = [32mcol_double()[39m,
+  `°ª¤¤©Î°ªÂ¾-Á~¸ê` = [32mcol_double()[39m,
+  `°ª¤¤©Î°ªÂ¾-¤k/¨k` = [32mcol_double()[39m,
+  `±M¬ì-Á~¸ê` = [32mcol_double()[39m,
+  `±M¬ì-¤k/¨k` = [32mcol_double()[39m,
+  `¤j¾Ç-Á~¸ê` = [32mcol_double()[39m,
+  `¤j¾Ç-¤k/¨k` = [32mcol_double()[39m,
+  `¬ã¨s©Ò-Á~¸ê` = [32mcol_double()[39m,
+  `¬ã¨s©Ò-¤k/¨k` = [32mcol_double()[39m
+)
+"
+"0","View(X107edu)"

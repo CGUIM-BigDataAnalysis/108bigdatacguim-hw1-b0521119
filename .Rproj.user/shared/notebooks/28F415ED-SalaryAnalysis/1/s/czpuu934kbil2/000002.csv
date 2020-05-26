@@ -1,0 +1,5 @@
+"0","salarytable$salary_increase_rate<-"
+"0","  salarytable$`大學-薪資.y`/salarytable$`大學-薪資.x`"
+"0","salary_increase_top10<-"
+"0","  head(salarytable[order(salarytable$salary_increase_rate,decreasing = T),],10)"
+"0","View(salary_increase_top10)"
