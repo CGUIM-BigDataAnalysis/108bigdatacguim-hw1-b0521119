@@ -3,3 +3,4 @@
 "0","salary_increase_5percent_kind<-"
 "0","  table(sapply(strsplit(salary_increase_5percent$大職業別,""-""),""["",1))"
 "0","View(salary_increase_5percent_kind)"
+"0","knitr::kable(salary_increase_5percent_kind)"

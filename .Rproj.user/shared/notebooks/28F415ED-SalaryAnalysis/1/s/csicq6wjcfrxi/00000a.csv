@@ -1,0 +1,5 @@
+"0",""
+"0","boy_higher104_difference_top10<-head(boy_higher104_diff,10)"
+"0","boy_higher107_difference_top10<-head(boy_higher107_diff,10)"
+"0","View(boy_higher104_difference_top10)"
+"0","knitr::kable(boy_higher104_difference_top10)"

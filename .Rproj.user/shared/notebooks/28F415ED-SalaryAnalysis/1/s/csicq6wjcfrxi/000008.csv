@@ -1,0 +1,3 @@
+"0","boy_higher107_diff<-boy_higher107[order(boy_higher107$`大學-女/男`),]"
+"0","View(boy_higher107_diff)"
+"0","knitr::kable(boy_higher107_diff)"

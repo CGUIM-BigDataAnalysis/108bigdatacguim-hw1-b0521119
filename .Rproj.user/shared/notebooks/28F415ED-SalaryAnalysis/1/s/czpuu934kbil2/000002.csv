@@ -3,3 +3,4 @@
 "0","salary_increase_top10<-"
 "0","  head(salarytable[order(salarytable$salary_increase_rate,decreasing = T),],10)"
 "0","View(salary_increase_top10)"
+"0","knitr::kable(salary_increase_top10)"

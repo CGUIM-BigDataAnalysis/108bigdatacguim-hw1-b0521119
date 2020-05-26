@@ -1,0 +1,4 @@
+"0",""
+"0","salary_increase<-filter(salarytable,salarytable$`大學-薪資.y`>salarytable$`大學-薪資.x`)"
+"0","View(salary_increase)"
+"0","knitr::kable(salary_increase)"

@@ -3,6 +3,4 @@
 "0","salarytable<-"
 "0","  inner_join(X104edunew,X107edu,by=c(""大職業別""))"
 "0","View(salarytable)"
-"0",""
-"0","salary_increase<-filter(salarytable,salarytable$`大學-薪資.y`>salarytable$`大學-薪資.x`)"
-"0","View(salary_increase)"
+"0","knitr::kable(salarytable)"
